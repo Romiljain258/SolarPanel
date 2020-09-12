@@ -1,0 +1,70 @@
+[
+    {
+        "name": 1,
+        "details": [
+            {
+                "info": "A"
+            },
+            {
+                "info": "B"
+            },
+            {
+                "info": "C"
+            },
+            {
+                "info": "D"
+            }
+        ]
+    },
+    {
+        "name": 2,
+        "details": [
+            {
+                "info": "A"
+            },
+            {
+                "info": "B"
+            },
+            {
+                "info": "C"
+            },
+            {
+                "info": "D"
+            }
+        ]
+    },
+    {
+        "name": 3,
+        "details": [
+            {
+                "info": "A"
+            },
+            {
+                "info": "B"
+            },
+            {
+                "info": "C"
+            },
+            {
+                "info": "D"
+            }
+        ]
+    },
+    {
+        "name": 4,
+        "details": [
+            {
+                "info": "A"
+            },
+            {
+                "info": "B"
+            },
+            {
+                "info": "C"
+            },
+            {
+                "info": "D"
+            }
+        ]
+    }
+]
